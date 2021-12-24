@@ -1,4 +1,3 @@
-# lokeshjadhav21.github.io
 # Hi, I am Lokesh Jadhav.
 ### Education- BSc Chemistry, MBA Marketing.
 ### Currently doing- BSc in Programming and Data Science, from IIT Madras.
